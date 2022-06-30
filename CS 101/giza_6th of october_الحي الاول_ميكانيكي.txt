@@ -1,0 +1,4 @@
+name,cost per hour,raring,tel,rating_number
+Abdelateef,60,8,01202979622,6
+Mahmoud,70,7,01202979622,15
+Safwat,50,5,01202207374,0
